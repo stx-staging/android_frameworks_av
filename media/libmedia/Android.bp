@@ -409,6 +409,7 @@ cc_library {
         "libutils",
         "framework-permission-aidl-cpp",
         "libandroidicu",
+        "libui",
         "libaudioclient",
         "libaudiofoundation",
         "libcamera_client",
