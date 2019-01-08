@@ -412,6 +412,7 @@ cc_library {
         "framework-permission-aidl-cpp",
         "libaconfig_storage_read_api_cc",
         "libandroidicu",
+        "libui",
         "libaudioclient",
         "libaudiofoundation",
         "libcamera_client",
