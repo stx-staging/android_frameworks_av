@@ -356,6 +356,7 @@ cc_library {
 
     srcs: [
         ":mediaextractorservice_aidl",
+        "IHDCP.cpp",
         "BufferingSettings.cpp",
         "CharacterEncodingDetector.cpp",
         "IDataSource.cpp",
