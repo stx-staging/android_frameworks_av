@@ -414,6 +414,7 @@ cc_library {
         //"libsonivox",
         "libaconfig_storage_read_api_cc",
         "libandroidicu",
+        "libui",
         "libaudiofoundation",
         "libcamera_client",
         "libcutils",
